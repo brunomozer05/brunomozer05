@@ -11,7 +11,7 @@
 ## 📬 Contato:
 - [📧 Email](mailto:brunomozer05@gmail.com)
 - [📱 WhatsApp](https://wa.me/5548988612552)
-- [🔗 LinkedIn](https://www.linkedin.com/in/bruno-merico-mozer-7a02a5247/)
+- [🔗 LinkedIn](https://www.linkedin.com/in/bruno-mozer)
 
 ---
 
