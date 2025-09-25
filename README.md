@@ -17,6 +17,8 @@
 
 ## 🔥 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunomozer05&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunomozer05&hide_border=true&include_all_commits=true&hide=issues&theme=dark&show_icons=true&rank_icon=github)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomozer05&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 ---
