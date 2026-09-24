@@ -1,24 +1,24 @@
-# Olá, sou Bruno Mozer 👋
+# Olá, eu sou Bruno Mozer 👋
 
-<br>
+Sou formado em **Análise e Desenvolvimento de Sistemas** e direciono minha carreira para o desenvolvimento **Java Back-end**. Atualmente, aprofundo meus conhecimentos em **Java**, **Spring Boot**, **PostgreSQL**, APIs REST e boas práticas de desenvolvimento, com foco em oportunidades como **Desenvolvedor FullStack**.
 
-**Estudante de Análise e Desenvolvimento de Sistemas** focado em desenvolvimento de software. Estou em busca de oportunidades para aplicar minhas habilidades e contribuir em projetos desafiadores na área de tecnologia. Tenho experiência prática em **Java**, **SpringBoot**, **JavaScript**, **SQL** e sou apaixonado por aprender e resolver problemas.
+Tenho interesse em transformar regras de negócio em aplicações organizadas, funcionais e fáceis de manter. Neste perfil, compartilho projetos desenvolvidos durante minha evolução profissional e acadêmica.
 
+## 🛠️ Tecnologias e ferramentas
 
+- **Back-end:** Java, Spring Boot e APIs REST
+- **Banco de dados:** PostgreSQL e SQL
+- **Front-end:** JavaScript, React, HTML e CSS
+- **Ferramentas:** Git, GitHub, DBeaver e Insomnia
 
----
+## 📫 Contato
 
-## 📬 Contato:
-- [📧 Email](mailto:brunomozer05@gmail.com)
-- [📱 WhatsApp](https://wa.me/5548988612552)
-- [🔗 LinkedIn](https://www.linkedin.com/in/bruno-mozer)
+- [E-mail](mailto:brunomozer05@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bruno-mozer)
+- [WhatsApp](https://wa.me/5548988612552)
 
----
+## 📊 Estatísticas do GitHub
 
-## 🔥 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunomozer05&hide_border=true&include_all_commits=true&hide=issues&theme=dark&show_icons=true&rank_icon=github)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomozer05&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
----
+![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brunomozer05&theme=dark&animation=draw)
+![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunomozer05&theme=dark&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunomozer05&theme=dark&animation=draw)
