@@ -6,7 +6,7 @@ Tenho interesse em transformar regras de negócio em aplicações organizadas, f
 
 ## 🛠️ Tecnologias e ferramentas
 
-- **Back-end:** Java, Spring Boot e APIs REST
+- **Back-end:** Nodejs, Java, Spring Boot e APIs REST
 - **Banco de dados:** PostgreSQL e SQL
 - **Front-end:** JavaScript, React, HTML e CSS
 - **Ferramentas:** Git, GitHub, DBeaver e Insomnia
